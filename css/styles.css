@@ -1,0 +1,48 @@
+
+
+body {
+    margin: 0;
+    padding: 0;
+
+    height: 100vh;
+    width: 100vw;
+
+    background-color: lightskyblue;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ring {
+
+    height: 33em;
+    width: 53em;
+    background-color: red;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.foto {
+    height: 15em;
+    width: 15em;
+}
+
+.foto2 {
+    height: 20em;
+    width: 16em;
+}
+
+.vida {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    color: white;
+    font-size: 2em;
+}
+
